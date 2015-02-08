@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/com.vysk.armcctoolchain_1.0.0.qualifier.jar" id="com.vysk.armcctoolchain" version="1.0.0.qualifier">
+      <category name="com.vysk.armcctoolchain.category"/>
+   </feature>
+   <category-def name="com.vysk.armcctoolchain.category" label="Keil ARM Toolchain">
+      <description>
+         Keil ARM Toolchain Support
+      </description>
+   </category-def>
+</site>

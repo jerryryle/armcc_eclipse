@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+   <extension
+         id="id1"
+         name="name"
+         point="org.eclipse.cdt.core.ErrorParser">
+      <errorparser
+            class="com.vysk.armcctoolchain.ARMCCErrorParser"
+            id="com.vysk.armcctoolchain.armccerrorparser"
+            name="Keil ARM Toolchain Error Parser">
+      </errorparser>
+   </extension>
+
+</plugin>
